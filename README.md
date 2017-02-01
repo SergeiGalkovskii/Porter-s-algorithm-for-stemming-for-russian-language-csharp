@@ -1,4 +1,4 @@
-##Algorithm Stemmer Porter for Russian language in C#
+##Porter's algorithm for stemming for Russian language in C#
 Stemming algorithm for Russian language. Algorithm find a stem of a word with prefix and return transform word. Algorithn doesn't using dictionaries. It work via rules found Martin Porter. For details information about algorithm visit M.Porter's [site](http://snowball.tartarus.org/algorithms/russian/stemmer.html). Algorithm was migrating from PHP [version](http://forum.dklab.ru/php/advises/HeuristicWithoutTheDictionaryExtractionOfARootFromRussianWord.html).
 
 ##Алгоритм Стеммер Портера для русского языка на C#.
